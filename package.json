@@ -1,0 +1,26 @@
+{
+  "name": "angela-buchanan",
+  "version": "1.0.0",
+  "description": "Angela Buchanan Portfolio Website",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "angela-buchanan"
+  },
+  "keywords": [
+    "angela",
+    "buchanan",
+    "multipurpose",
+    "artist",
+    "portfolio",
+    "website"
+  ],
+  "author": "Angela Buchanan",
+  "license": "ISC"
+}
